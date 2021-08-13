@@ -1,0 +1,7 @@
+[
+    {"cedulaidentidad":"12345678", "nombre":"Ana Reyes","telefono":"094123456", "direccion":"Lugar 1515", "email":"anareyes@gmail.com"},
+    {"cedulaidentidad":"23498765", "nombre":"Julia Benz","telefono":"095987654", "direccion":"Lugar 2020", "email":"juliabenz@gmail.com"},
+    {"cedulaidentidad":"01020304", "nombre":"Jose Ruiz","telefono":"093321654", "direccion":"Lugar 7777", "email":"joseruiz@gmail.com"},
+    {"cedulaidentidad":"44444444", "nombre":"Armando Torres","telefono":"091456789", "direccion":"Lugar 1234", "email":"armandotorres@gmail.com"},
+    {"cedulaidentidad":"92492038", "nombre":"Ana Reyes","telefono":"092987456", "direccion":"Lugar 4895", "email":"anareyes1@gmail.com"}
+]

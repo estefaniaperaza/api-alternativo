@@ -1,0 +1,8 @@
+[
+    {"codigo":"63585", "nombreproducto":"Torta de Cumpleaños","precio":"$650", "descripcion":"peso: 1kg", "ingredientes":"harina, huevos, azúcar, chocolate"},
+    {"codigo":"349441", "nombreproducto":"Masitas","precio":"$350", "descripcion":"1 docena", "ingredientes":"harina, azúcar, huevos, chocolate, dulce de leche"},
+    {"codigo":"75891", "nombreproducto":"Sanguches","precio":"$350", "descripcion":"10 unidades", "ingredientes":"harina, jamon y queso, lechuga, tomate, huevo"},
+    {"codigo":"93332", "nombreproducto":"Pizza","precio":"$280", "descripcion":"400 gr", "ingredientes":"salsa de tomate con Muzza"},
+    {"codigo":"546410", "nombreproducto":"Pascualina","precio":"$150", "descripcion":"1 porción", "ingredientes":"harina, huevos, espinaca"}
+    
+]
