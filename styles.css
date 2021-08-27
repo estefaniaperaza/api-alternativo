@@ -48,17 +48,7 @@ div.index {
     font-weight: bold;
 }
 
-#produ {
-    background-color: blanchedalmond;
-    opacity: 0.8;
-    text-align: center;
-    font-weight: bold;
-    font-size: xx-large;
-}
 
-a{
-    color: darkgoldenrod
-}
 
 #ingr{
     font-size: small;
@@ -76,5 +66,46 @@ h3.nombre {
     text-align: center;
     justify-content: center;
     margin: 90px;
+}
+
+li {
+    float: left;
+    display: inline;
+}
+
+
+#datos {
+    float: left;
+    display: inline;
+    color: aliceblue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #e6365c;
 }
 

@@ -24,3 +24,17 @@ var getJSONData = function(url){
 
 document.addEventListener("DOMContentLoaded", function(e){
 });
+
+function recuperarDatos() {
+  if (localStorage.getItem("mis_datos")) {
+      mis_datos_json = localStorage.getItem("mis_datos");
+      mis_datos = JSON.parse(mis_datos_json);
+      document.getElementById("datos").innerHTML =
+      "Usuario: " + mis_datos.inputEmail + "<br>";
+  } else {
+      document.getElementById("datos").innerHTML = "No hay datos almacenados";
+  }
+}
+document.addEventListener("DOMContentLoaded", function (e) {
+  recuperarDatos();
+});
