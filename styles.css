@@ -71,3 +71,10 @@ h3.nombre {
     font-style: oblique;
     text-align: left;
 }
+
+.sesion {
+    text-align: center;
+    justify-content: center;
+    margin: 90px;
+}
+
