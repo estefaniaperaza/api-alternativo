@@ -11,7 +11,7 @@ var productsArray = [];
                `+ product.precio + `<br> 
                `+ product.descripcion + `<br>
                `+ product.ingredientes + `<br>
-               `+ product.img + `<br>
+               <img src=" `+ product.img + `"> <br>
 
             `
             }

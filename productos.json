@@ -1,10 +1,10 @@
 [
-    {"codigo":"63585", "nombreproducto":"Torta de Cumpleaños","precio":"$650", "descripcion":"peso: 1kg", "ingredientes":"harina, huevos, azúcar, chocolate", "img":"tortacumple.png"},
-    {"codigo":"349441", "nombreproducto":"Masitas","precio":"$350", "descripcion":"1 docena", "ingredientes":"harina, azúcar, huevos, chocolate, dulce de leche", "img":"masitas.png"},
-    {"codigo":"75891", "nombreproducto":"Sanguches","precio":"$350", "descripcion":"10 unidades", "ingredientes":"harina, jamon, queso, lechuga, tomate, huevo", "img":"sanguche.png"},
-    {"codigo":"93332", "nombreproducto":"Pizza","precio":"$280", "descripcion":"400 gr", "ingredientes":"salsa de tomate con Muzza", "img":"pizza.png"},
-    {"codigo":"546410", "nombreproducto":"Pascualina","precio":"$150", "descripcion":"1 porción", "ingredientes":"harina, huevos, espinaca", "img":"pascualina.png"},
-    {"codigo":"035842", "nombreproducto":"Empanadas","precio":"$290", "descripcion":"6 unidades", "ingredientes":"harina, aceite, carne, jamon, queso", "img":"empanadas.png"},
-    {"codigo":"226548", "nombreproducto":"Donas","precio":"$80", "descripcion":"2 unidades", "ingredientes":"harina, huevos, azucar, chocolate, manteca", "img":"donas.png"}
+    {"codigo":"63585", "nombreproducto":"Torta de Cumpleaños","precio":"$650", "descripcion":"peso: 1kg", "ingredientes":"harina, huevos, azúcar, chocolate", "img":"img/tortacumple.png"},
+    {"codigo":"349441", "nombreproducto":"Masitas","precio":"$350", "descripcion":"1 docena", "ingredientes":"harina, azúcar, huevos, chocolate, dulce de leche", "img":"img/masitas.png"},
+    {"codigo":"75891", "nombreproducto":"Sanguches","precio":"$350", "descripcion":"10 unidades", "ingredientes":"harina, jamon, queso, lechuga, tomate, huevo", "img":"img/sanguche.png"},
+    {"codigo":"93332", "nombreproducto":"Pizza","precio":"$280", "descripcion":"400 gr", "ingredientes":"salsa de tomate con Muzza", "img":"img/pizza.png"},
+    {"codigo":"546410", "nombreproducto":"Pascualina","precio":"$150", "descripcion":"1 porción", "ingredientes":"harina, huevos, espinaca", "img":"img/pascualina.png"},
+    {"codigo":"035842", "nombreproducto":"Empanadas","precio":"$290", "descripcion":"6 unidades", "ingredientes":"harina, aceite, carne, jamon, queso", "img":"img/empanadas.png"},
+    {"codigo":"226548", "nombreproducto":"Donas","precio":"$80", "descripcion":"2 unidades", "ingredientes":"harina, huevos, azucar, chocolate, manteca", "img":"img/donas.png"}
     
 ]
