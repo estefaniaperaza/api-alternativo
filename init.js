@@ -29,10 +29,12 @@ function recuperarDatos() {
   if (localStorage.getItem("mis_datos")) {
       mis_datos_json = localStorage.getItem("mis_datos");
       mis_datos = JSON.parse(mis_datos_json);
+      if (mis_datos.inputEmail) {
       document.getElementById("datos").innerHTML =
-      "Usuario: " + mis_datos.inputEmail + "<br>";
+      "Usuario: " + mis_datos.inputEmail + "<br>"; 
+      }
   } else {
-      document.getElementById("datos").innerHTML = "No hay datos almacenados";
+      document.getElementById("datos").innerHTML = " ";
   }
 }
 document.addEventListener("DOMContentLoaded", function (e) {
