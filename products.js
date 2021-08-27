@@ -6,13 +6,14 @@ var productsArray = [];
 
                let product = array[i];
                listado += `
-               <hr>
-               `+ product.nombreproducto + ` <br>
-               `+ product.precio + `<br> 
-               `+ product.descripcion + `<br>
-               `+ product.ingredientes + `<br>
-               <img src=" `+ product.img + `"> <br>
-
+               <div class="cajas">
+               <h3 class="nombre">`+ product.nombreproducto + `</h3> 
+               <p id="precio">`+ product.precio + `</p> 
+               <small>`+ product.descripcion + `</small>
+               <p id="ingr">Ingredientes: `+ product.ingredientes + ` </p> 
+               <img id="imgPro" src=" `+ product.imgSrc + `"> 
+               </div>
+               
             `
             }
                document.getElementById("mostrar").innerHTML = listado;

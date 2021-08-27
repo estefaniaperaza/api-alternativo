@@ -1,0 +1,73 @@
+#imgPro {
+    width: 400px;
+    height: 300px;
+}
+
+#precio {
+    font-weight: bold;
+  font-size: 20px;
+  text-align: right;
+  margin-right: 50px;
+  color: rgb(68, 12, 105);
+  font-style: italic;
+}
+
+small {
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.cajas {
+    width: calc(33% - 40px);
+      margin: 20px;
+      height: auto;
+      background: antiquewhite;
+      box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.1);
+      float: left;
+     
+}
+
+
+#fondopro {
+    background-color: rgb(243, 230, 240);
+}
+
+
+body.inicio {
+    background-image: url( https://ml6y1sfwwi30.i.optimole.com/IAuCcZw.9eIl~542c5/w:auto/h:auto/q:75/https://blogtricity.com/wp-content/uploads/2021/05/Top-10-Best-Bakery-in-Chandigarh-for-your-sweet-tooth-1-1.jpg) ;
+    
+    
+}
+
+
+div.index {
+    background-color: darkgoldenrod;
+    opacity: 0.6;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+#produ {
+    background-color: blanchedalmond;
+    opacity: 0.8;
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+a{
+    color: darkgoldenrod
+}
+
+#ingr{
+    font-size: small;
+    margin-left: 20px;
+}
+
+h3.nombre {
+    margin-left: 20px;
+    color: rgb(250, 0, 83);
+    font-style: oblique;
+    text-align: left;
+}
