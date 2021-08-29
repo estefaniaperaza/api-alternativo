@@ -28,6 +28,16 @@ small {
 }
 
 
+.cajalogin {
+    align-content: center;
+    background: #f1adad;
+    margin: 10px;
+    padding: 60px 40px 60px 40px;
+    width: calc(33% - 40px);
+    align-items: center;
+    
+} 
+
 #fondopro {
     background-color: rgb(243, 230, 240);
 }
@@ -39,6 +49,10 @@ body.inicio {
     
 }
 
+body.login {
+    background-color: #ffffff;
+    background-image: url("img/panaderia.png");
+}
 
 div.index {
     background-color: darkgoldenrod;
@@ -98,6 +112,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-size: 20px;
 }
 
 /* Change the link color to #111 (black) on hover */
@@ -109,3 +124,45 @@ li a:hover {
     background-color: #e6365c;
 }
 
+.invalid {
+    background-color: rgb(139, 208, 211);
+}
+
+#login {
+    color: rgb(252, 247, 247);
+    font-style:italic ;
+  
+   
+}
+
+
+#button {
+        background-color: #008CBA; 
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 4px;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        width: 110%;
+        
+    }
+
+    input {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        border-radius: 5px;
+        background-color: rgb(220, 244, 255);
+        /* border: 1; */
+        /* border-color:#008CBA; */
+        outline-color: #e6365c ;
+        width: 100%;
+        font-size: 16px;
+	    padding: 5px 9px 9px 5px;
+        border:none;
+        border-bottom: 1px solid #080808;
+        
+    }
+    

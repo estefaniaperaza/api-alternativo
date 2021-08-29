@@ -41,13 +41,12 @@ document.addEventListener("DOMContentLoaded", function (e) {
   recuperarDatos();
 });
 
-
-
+/*
 function salir() {
   localStorage.clear("mis_datos");
   var borrar = document.getElementById("button");
   borrar.remove() 
   window.location="index.html" 
-}
+} */
 
 
