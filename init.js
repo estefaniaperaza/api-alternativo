@@ -41,6 +41,12 @@ document.addEventListener("DOMContentLoaded", function (e) {
   recuperarDatos();
 });
 
+document.getElementById("salir").addEventListener("click", function(){
+  localStorage.removeItem("mis_datos");
+  window.location = "login.html";
+})
+
+
 /*
 function salir() {
   localStorage.clear("mis_datos");
